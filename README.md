@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋, I am Shreya Agrawal
+I'm a tech geek with an interest in AI/ML and Data Science :)
 
 <!--
 **DizzyYoda/DizzyYoda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
